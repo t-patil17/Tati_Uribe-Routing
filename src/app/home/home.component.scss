@@ -1,0 +1,33 @@
+
+
+ .bg-img {
+   background-image: url("../../assets/tati_background\ img.webp");
+
+   background-size: cover;
+}
+
+.bg-img img {
+    width: 450px;
+    margin-left: 140px;
+}
+
+.bg-img .content h1 {
+    color: rgb(202, 133, 84);
+    max-width: 700px;
+    text-align: center;
+    margin-left: 120px;
+    margin-top: 4em;
+    font-size:55px;
+    font-family: "Playfair Display",serif;
+}
+.bg-img .content button{
+    background-color: rgb(255, 135, 110);
+    color: rgb(255, 255, 255);
+    font-size: 13px;
+    font-weight: 500;
+    padding: 12px 25px;
+    border-radius: 22px;
+    margin-left: 30em;
+    margin-top: 25px;
+    
+}
